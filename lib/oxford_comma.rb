@@ -8,7 +8,7 @@ def oxford_comma(array)
   
   
  elsif array.length == 3 
-  array.split[1](",") << (" and ")
+  array.split[1] "," << (" and ")
   
   
   
