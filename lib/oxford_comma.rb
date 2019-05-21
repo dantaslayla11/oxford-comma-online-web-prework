@@ -6,5 +6,5 @@ def oxford_comma(array)
  end
  elsif array.length == 3 
  array.split( "and ")
-end
-
+ end
+end 
