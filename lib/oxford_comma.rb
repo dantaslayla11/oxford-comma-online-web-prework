@@ -9,7 +9,7 @@ def oxford_comma(array)
   
  elsif array.length == 3 
   array.shift[2]
-  array.join(",") << (" and ") + ("starfruit")
+  array.join(",") << (" and ") 
  
   
   
