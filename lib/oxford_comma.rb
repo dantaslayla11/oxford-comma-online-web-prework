@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  array.split
+  oxford_comma == array.split
 end
