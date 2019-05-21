@@ -1,3 +1,3 @@
-def oxford_comma(array)
-  element.split
+def oxford_comma(array, string)
+ array == 
 end
