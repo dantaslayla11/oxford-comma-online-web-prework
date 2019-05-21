@@ -10,7 +10,7 @@ def oxford_comma(array)
   
  elsif 
  array.length == 3 
-  array.shift("," + " and " )
+  array.unshift("," + " and " )
   
  end
 end 
