@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  array == String
+  oxford_comma == String
 end
